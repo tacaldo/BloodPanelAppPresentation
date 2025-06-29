@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Iron metabolism is a cornerstone of human health, influencing everything from oxygen transport to cognitive function. Abnormal iron levels are implicated in conditions like anemia, hemochromatosis, and even neurological disorders, making accurate interpretation of iron-related biomarkers essential. 
 
-## Interpreting Iron Related Biomarkers
+## Interpreting Iron Related Biomarkers..
 
 For healthcare providers, researchers, and patients, understanding biomarkers such as serum iron, ferritin, transferrin saturation (TSAT), and total iron-binding capacity (TIBC) can be complex due to varying clinical ranges and nutritional implications. 
 
