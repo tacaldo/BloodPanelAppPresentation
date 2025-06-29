@@ -25,8 +25,5 @@ Our Blood Panel Metrics App, built using R Shiny, bridges this gap by offering a
 
 ## Screenshot
 
-this is for a screen
-
-
-
+<img src="ScreenBloodPanelApp.png" width="100%" />
 
