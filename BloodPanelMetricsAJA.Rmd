@@ -27,3 +27,9 @@ Our Blood Panel Metrics App, built using R Shiny, bridges this gap by offering a
 
 <img src="ScreenBloodPanelApp.png" width="100%" />
 
+[Visit Blood Panel App](https://tacaldo.shinyapps.io/DevelopingDataProducts/)
+
+
+
+
+

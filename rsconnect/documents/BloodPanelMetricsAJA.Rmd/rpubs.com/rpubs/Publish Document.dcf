@@ -1,0 +1,10 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/1326400/9504df3b291f42a0a6838a114fa54925
+bundleId: https://api.rpubs.com/api/v1/document/1326400/9504df3b291f42a0a6838a114fa54925
+url: http://rpubs.com/tacaldo/1326400
+version: 1
